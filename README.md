@@ -24,7 +24,7 @@ Atelier is a website that helps hairdressers and salons promote their businesses
 
 ### Imaages of the Web Page
 
-![App Screenshot](C:\Users\avini\OneDrive\Pictures\Screenshots\Screenshot (137).png)
+![App Screenshot](file:///C:/Users/avini/Downloads/Screenshot%20(133).webp)
 
 
 
