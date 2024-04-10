@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haircut Bot</title>
+    <style>
+        /* Chat container */
+        .chat-container {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        
+        /* Chat messages */
+        .chat-message {
+            margin-bottom: 10px;
+        }
+        
+        /* User message */
+        .user-message {
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            padding: 5px 10px;
+            margin-bottom: 5px;
+            display: inline-block;
+        }
+        
+        /* Bot message */
+        .bot-message {
+            background-color: #3cb371;
+            color: #fff;
+            border-radius: 5px;
+            padding: 5px 10px;
+            margin-bottom: 5px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container" id="chat-container">
+        <div class="chat-message bot-message">Welcome to Atelier! How can I assist you?</div>
+    </div>
+    <input type="text" id="user-input" placeholder="Type your message...">
+    <button onclick="sendMessage()">Send</button>
+
+    <script>
+        function sendMessage() {
+            var userInput = document.getElementById("user-input").value;
+            appendUserMessage(userInput);
+            processUserInput(userInput);
+        }
+
+        function appendUserMessage(message) {
+            var chatContainer = document.getElementById("chat-container");
+            var userMessageDiv = document.createElement("div");
+            userMessageDiv.className = "chat-message user-message";
+            userMessageDiv.innerHTML = message;
+            chatContainer.appendChild(userMessageDiv);
+        }
+
+        function appendBotMessage(message) {
+            var chatContainer = document.getElementById("chat-container");
+            var botMessageDiv = document.createElement("div");
+            botMessageDiv.className = "chat-message bot-message";
+            botMessageDiv.innerHTML = message;
+            chatContainer.appendChild(botMessageDiv);
+        }
+
+        function processUserInput(input) {
+            // Simple logic to handle user input
+            if (input.toLowerCase().includes("appointment") || input.toLowerCase().includes("booking")) {
+                appendBotMessage("Which day you want to book an appointment?");
+            } else if (input.toLowerCase().includes("today") || input.toLowerCase().includes("tomorrow")|| input.toLowerCase().includes("day after tomorrow ")) {
+                appendBotMessage("Okay, what time would you like to book the appointment?");
+            } else if (input.toLowerCase().includes("8AM") || input.toLowerCase().includes("10AM")|| input.toLowerCase().includes("12PM")|| input.toLowerCase().includes("2PM")|| input.toLowerCase().includes("4PM")|| input.toLowerCase().includes("6PM")|| input.toLowerCase().includes("8PM")) {
+                appendBotMessage("Okay, your appointment is booked. Thank you!");
+            }
+            
+            else {
+                appendBotMessage("I'm sorry, I didn't understand that. How can I assist you?");
+            }
+        }
+        
+    </script>
+</body>
+</html>
