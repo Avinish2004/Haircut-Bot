@@ -75,11 +75,9 @@
                 appendBotMessage("Which day you want to book an appointment?");
             } else if (input.toLowerCase().includes("today") || input.toLowerCase().includes("tomorrow")|| input.toLowerCase().includes("day after tomorrow ")) {
                 appendBotMessage("Okay, what time would you like to book the appointment?");
-            } else if (input.toLowerCase().includes("8AM") || input.toLowerCase().includes("10AM")|| input.toLowerCase().includes("12PM")|| input.toLowerCase().includes("2PM")|| input.toLowerCase().includes("4PM")|| input.toLowerCase().includes("6PM")|| input.toLowerCase().includes("8PM")) {
+            } else if (input.toLowerCase().includes("8AM") || input.toLowerCase().includes("10AM") || input.toLowerCase().includes("12PM") || input.toLowerCase().includes("2PM") || input.toLowerCase().includes("4PM") || input.toLowerCase().includes("6PM") || input.toLowerCase().includes("8PM")) {
                 appendBotMessage("Okay, your appointment is booked. Thank you!");
-            }
-            
-            else {
+            }else {
                 appendBotMessage("I'm sorry, I didn't understand that. How can I assist you?");
             }
         }
