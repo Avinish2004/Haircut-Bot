@@ -17,8 +17,8 @@ Atelier is a website that helps hairdressers and salons promote their businesses
   - [QnA Maker](https://www.qnamaker.ai/)
   - [Web App Bot](https://azure.microsoft.com/en-us/services/bot-services/#get-started)
 
-- [Link of Static Webpage](https://victorious-coast-01eb17110.1.azurestaticapps.net/)
-- [Demo Video Link](https://www.loom.com/share/19475b7745c8498c9baa4d8f73331b19?sid=d0f0eda9-1434-4474-94a1-27c1b27bc6ec)
+- Link of Static Webpage-https://victorious-coast-01eb17110.1.azurestaticapps.net/
+- Demo Video Link-https://www.loom.com/share/19475b7745c8498c9baa4d8f73331b19?sid=d0f0eda9-1434-4474-94a1-27c1b27bc6ec
 
 ### Imaages of the Web Page
 
