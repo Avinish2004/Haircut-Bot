@@ -73,9 +73,9 @@
             // Simple logic to handle user input
             if (input.toLowerCase().includes("appointment") || input.toLowerCase().includes("booking")) {
                 appendBotMessage("Which day you want to book an appointment?");
-            } if (input.toLowerCase().includes("today") || input.toLowerCase().includes("tomorrow")|| input.toLowerCase().includes("day after tomorrow ")) {
+            } else if (input.toLowerCase().includes("today") || input.toLowerCase().includes("tomorrow")|| input.toLowerCase().includes("day after tomorrow ")) {
                 appendBotMessage("Okay, what time would you like to book the appointment?");
-            }  if(input.toUpperCase().includes("8AM") || input.toUpperCase().includes("10AM") || input.toUpperCase().includes("12PM") || input.toUpperCase().includes("2PM")|| input.toUpperCase().includes("4PM")|| input.toUpperCase().includes("6PM")|| input.toUpperCase().includes("8PM")) {
+            } else if(input.toUpperCase().includes("8AM") || input.toUpperCase().includes("10AM") || input.toUpperCase().includes("12PM") || input.toUpperCase().includes("2PM")|| input.toUpperCase().includes("4PM")|| input.toUpperCase().includes("6PM")|| input.toUpperCase().includes("8PM")) {
                 appendBotMessage("Okay, your appointment is booked. Thank you!");
             }
             
