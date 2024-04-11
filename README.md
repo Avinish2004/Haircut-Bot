@@ -8,13 +8,19 @@ This repository hosts the final project of Future Ready Talent Internship, this 
 ### About Atelier
 Atelier is a website that helps hairdressers and salons promote their businesses online and take appointments from clients using chatbot (AtelierBot)
 
+###problem
+most of the people dont know the croud at barber shop and by this way client spend their more  precious time and client wait for their chance  to come.
+
+###Solution
+Atiler is a website that will help people to save their time by making appointment. atiler will give client a proper booking time (booking status) though which clint will reach the sallon shop at their scheduled DATE AND TIME.
+
 ### Languages Used
   - HTML
   - CSS
   - JavaScript
 
 ### Core Azure Services Used
-  - [Static Web Apps](https://portal.azure.com/#@avinishpankaj2004gmail.onmicrosoft.com/resource/subscriptions/f47b80c7-5b7b-4c5f-9e15-35d1f135e3f3/resourceGroups/AI-Bot/providers/Microsoft.Web/staticSites/Haircut-Chatbot/staticsite)
+  - [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#overview)
   - [QnA Maker](https://www.qnamaker.ai/)
   - [Web App Bot](https://azure.microsoft.com/en-us/services/bot-services/#get-started)
 
