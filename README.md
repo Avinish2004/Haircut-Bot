@@ -9,10 +9,10 @@ This repository hosts the final project of Future Ready Talent Internship, this 
 Atelier is a website that helps hairdressers and salons promote their businesses online and take appointments from clients using chatbot (AtelierBot)
 
 ###  Problem
-most of the people dont know the croud at barber shop and by this way client spend their more  precious time and client wait for their chance  to come.
+most of the people dont know the crowd at barber shop and by this way client spend their more  precious time and client wait for their chance  to come.
 
 ### Solution
-Atiler is a website that will help people to save their time by making appointment. atiler will give client a proper booking time (booking status) though which clint will reach the barber shop at their scheduled DATE AND TIME.
+Atiler is a website that will help people to save their time by making appointment. atiler will give client a proper booking time (booking status) though which client will reach the barber shop at their scheduled DATE AND TIME.
 
 ### Languages Used
   - HTML
