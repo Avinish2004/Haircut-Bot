@@ -22,13 +22,20 @@ Atelier is a website that helps hairdressers and salons promote their businesses
 - Project demo link-[https://www.loom.com/share/f92e2fc5b1da4f9ab4e916d9ca0058d6?sid=2e01243f-e668-4af3-9e59-4f7cd97790e2](https://www.loom.com/share/19475b7745c8498c9baa4d8f73331b19?sid=196e85fc-8574-4b63-b86a-e39c2eacf780)
 
 
-### Imaages of the Web Page
+### Screenshots
 
-![App Screenshot](file:///C:/Users/avini/Downloads/Screenshot%20(133).webp)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(132).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(133).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(134).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(135).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(136).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(137).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(138).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(139).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(140).png)
+![App Screenshot](https://github.com/Avinish2004/Haircut-Bot/blob/main/assets/images/Screenshot%20(141).png)
 
 
 
-### Imaages of the Chat Bot [AtelierBot]
 
-![image](https://user-images.githubusercontent.com/62836969/186692801-c499ec1d-3d59-4ff9-82ab-e11032683146.png)
 
