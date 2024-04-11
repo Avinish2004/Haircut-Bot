@@ -12,7 +12,7 @@ Atelier is a website that helps hairdressers and salons promote their businesses
 most of the people dont know the croud at barber shop and by this way client spend their more  precious time and client wait for their chance  to come.
 
 ### Solution
-Atiler is a website that will help people to save their time by making appointment. atiler will give client a proper booking time (booking status) though which clint will reach the sallon shop at their scheduled DATE AND TIME.
+Atiler is a website that will help people to save their time by making appointment. atiler will give client a proper booking time (booking status) though which clint will reach the barber shop at their scheduled DATE AND TIME.
 
 ### Languages Used
   - HTML
