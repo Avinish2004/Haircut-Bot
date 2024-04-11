@@ -24,7 +24,7 @@ Atiler is a website that will help people to save their time by making appointme
   - [QnA Maker](https://www.qnamaker.ai/)
   - [Web App Bot](https://azure.microsoft.com/en-us/services/bot-services/#get-started)
 
-- Link of Static Webpage-[https://icy-beach-0360bc610.5.azurestaticapps.net)
+- Link of Static Webpage-(https://icy-beach-0360bc610.5.azurestaticapps.net)
 
 - Project demo link-https://www.loom.com/share/ae250580da104710bd2c00d36ec80595?sid=1ce456e8-0302-4a42-ba77-d19ff94252fa
 
