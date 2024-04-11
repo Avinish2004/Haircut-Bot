@@ -26,8 +26,7 @@ Atiler is a website that will help people to save their time by making appointme
 
 - Link of Static Webpage-[https://victorious-coast-01eb17110.1.azurestaticapps.net/](https://icy-beach-0360bc610.5.azurestaticapps.net)
 
-- Project demo link-[https://www.loom.com/share/f92e2fc5b1da4f9ab4e916d9ca0058d6?sid=2e01243f-e668-4af3-9e59-4f7cd97790e2](https://www.loom.com/share/19475b7745c8498c9baa4d8f73331b19?sid=196e85fc-8574-4b63-b86a-e39c2eacf780)
-
+- Project demo link-https://www.loom.com/share/ae250580da104710bd2c00d36ec80595?sid=1ce456e8-0302-4a42-ba77-d19ff94252fa
 
 ### Screenshots
 
